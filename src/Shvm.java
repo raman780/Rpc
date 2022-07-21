@@ -98,6 +98,8 @@ public class Shvm {
         str1.codePointBefore(5);
         System.out.println(str1);
 
+        str1.reverse();
+        System.out.println(str1);
 
 
 
